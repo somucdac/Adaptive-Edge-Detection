@@ -1,5 +1,5 @@
 # Adaptive-Edge-Detection
-Functional Description of Adaptive DOG Filter for Edge detection from gray scale Images of Size 128x128 
+Functional Description of Adaptive DOG Filter for Edge detection from gray scale Images of Size 198x198 
 
 Step1:- Open the .exe file named as AdaptiveEdge.exe
 
